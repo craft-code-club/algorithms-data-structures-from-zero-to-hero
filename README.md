@@ -24,6 +24,7 @@ Todas as contribuições são bem-vindas.
 
 ## Roadmap
 
+![Roadmap](./media/roadmap.png)
 [Preview Roadmap](https://whimsical.com/roadmap-BVA8gnSNM2D296qmrjwvY4)
 
 
