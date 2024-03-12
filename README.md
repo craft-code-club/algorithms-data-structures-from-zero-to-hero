@@ -44,4 +44,4 @@ Todas as contribuições são bem-vindas.
 
 ## Status
 
-![Links](hhttps://github.com/craft-code-club/algorithms-data-structures-from-zero-to-hero/actions/workflows/markdown-link-check.yml/badge.svg)
+![Links](https://github.com/craft-code-club/algorithms-data-structures-from-zero-to-hero/actions/workflows/markdown-link-check.yml/badge.svg)
