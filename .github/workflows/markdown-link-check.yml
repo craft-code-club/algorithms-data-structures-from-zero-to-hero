@@ -1,0 +1,26 @@
+name: 'Check Markdown links'
+
+
+on:
+  workflow_dispatch: # To can dispatch manually
+
+  pull_request:
+    types: [opened, reopened, edited, synchronize]
+    branches:
+      - main
+
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: "Checkout"
+      uses: actions/checkout@v4
+
+    - name: 'Readme analysis'
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-verbose-mode: 'yes'
+        base-branch: 'main'
+        config-file: '.github/workflows/markdown-link-check.json'
