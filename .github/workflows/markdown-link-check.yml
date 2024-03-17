@@ -4,6 +4,10 @@ name: 'Check Markdown links'
 on:
   workflow_dispatch: # To can dispatch manually
 
+  # Schedule to run every week on Sunday at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * 0'
+
   push:
     branches:
       - main
