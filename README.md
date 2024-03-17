@@ -36,9 +36,12 @@ Todas as contribuições são bem-vindas.
   - [Youtube - Encontro](https://www.youtube.com/watch?v=B9CCEwjoXBk)
 - [x] **Algoritmos de Ordenação Básicos**
   - [Youtube - Encontro](https://www.youtube.com/watch?v=GxhxsbbzaTI)
-- [ ] **Linked Lists**
+- [X] **Linked Lists**
+  - [Youtube - Encontro](https://www.youtube.com/watch?v=j0E5hJZ__EA)
 - [ ] **Binary Search**
-- [ ] **...**
+- [ ] **Two Pointers**
+- [ ] **Sliding Window**
+- [ ] **Prefix Sum**
 - [ ] **...**
 - [ ] **...**
 
