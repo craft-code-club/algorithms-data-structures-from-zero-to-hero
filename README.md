@@ -24,7 +24,7 @@ Todas as contribuições são bem-vindas.
 
 ## Roadmap
 
-![Roadmap](./media/roadmap.png)
+![Roadmap](./media/Roadmap.png)
 [Preview Roadmap](https://whimsical.com/roadmap-BVA8gnSNM2D296qmrjwvY4)
 
 
@@ -35,14 +35,26 @@ Todas as contribuições são bem-vindas.
 - [x] **Strings**
   - [Youtube - Encontro](https://www.youtube.com/watch?v=B9CCEwjoXBk)
 - [x] **Algoritmos de Ordenação Básicos**
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
   - [Youtube - Encontro](https://www.youtube.com/watch?v=GxhxsbbzaTI)
 - [X] **Linked Lists**
+  - Singly Linked List
+  - Doubly Linked List
+  - Sentinels
+  - Dummy node (pointer)
+  - Fast and Slow Pointer
+  - Identify Cycles
+  - Floyd Cycle
   - [Youtube - Encontro](https://www.youtube.com/watch?v=j0E5hJZ__EA)
-- [ ] **Binary Search**
-- [ ] **Two Pointers**
+- [x] **Binary Search**
+  - [Youtube - Encontro](https://www.youtube.com/watch?v=62ZGcXDpbys)
+- [x] **Two Pointers**
 - [ ] **Sliding Window**
 - [ ] **Prefix Sum**
-- [ ] **...**
+- [ ] **Hash Map / Set**
+- [ ] **Stack**
 - [ ] **...**
 
 
