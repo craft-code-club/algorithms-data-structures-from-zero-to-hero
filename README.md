@@ -51,6 +51,7 @@ Todas as contribuições são bem-vindas.
 - [x] **Binary Search**
   - [Youtube - Encontro](https://www.youtube.com/watch?v=62ZGcXDpbys)
 - [x] **Two Pointers**
+  - [Youtube - Encontro](https://www.youtube.com/watch?v=a1QMdXgcQwY)
 - [ ] **Sliding Window**
 - [ ] **Prefix Sum**
 - [ ] **Hash Map / Set**
