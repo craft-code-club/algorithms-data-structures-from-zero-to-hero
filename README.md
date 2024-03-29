@@ -1,32 +1,27 @@
 # Algorithms &amp; Data Structures - From Zero to Hero
 
-![Algorithms &amp; Data Structures - From Zero to Hero](./media/algorithms_data_structures.jpg)
-
+![Algorithms & Data Structures - From Zero to Hero](./media/algorithms_data_structures.jpg)
 
 Este repositório é destinado a serie da nossa comunidade **Craft & Code Club** sobre **Algorithms &amp; Data Structures - From Zero to Hero**.
 
 Vamos usar este repositorio para compartilhar o roadmap, códigos, slides e materiais de apoio aos nossos encontros.
-
 
 ## Sobre a série
 
 - [YouTube Playlist](https://www.youtube.com/watch?v=MtLv9Rwb55Q&list=PLl10TyPY67Jgbh4QdRlRKr-7PjB9i5hWg)
 - [Meetup](https://www.meetup.com/craft-code-club/events/)
 
-
 ## Contrubuições
 
 Todas as contribuições são bem-vindas.
 
-* Se tens alguma sugestão ou correção, por favor, abra uma issue deste repositório.
-* Se encontraste algum erro ou algo que possa ser melhorado, por favor, abra um pull request.
-
+- Se tens alguma sugestão ou correção, por favor, abra uma issue deste repositório.
+- Se encontraste algum erro ou algo que possa ser melhorado, por favor, abra um pull request.
 
 ## Roadmap
 
 ![Roadmap](./media/roadmap.png)
 [Preview Roadmap](https://whimsical.com/roadmap-BVA8gnSNM2D296qmrjwvY4)
-
 
 - [x] **Big O Notation - Análise Assintótica de Algoritmos**
   - [Youtube - Encontro](https://www.youtube.com/watch?v=MtLv9Rwb55Q)
@@ -39,7 +34,7 @@ Todas as contribuições são bem-vindas.
   - Insertion Sort
   - Selection Sort
   - [Youtube - Encontro](https://www.youtube.com/watch?v=GxhxsbbzaTI)
-- [X] **Linked Lists**
+- [x] **Linked Lists**
   - Singly Linked List
   - Doubly Linked List
   - Sentinels
@@ -53,11 +48,11 @@ Todas as contribuições são bem-vindas.
 - [x] **Two Pointers**
   - [Youtube - Encontro](https://www.youtube.com/watch?v=a1QMdXgcQwY)
 - [ ] **Sliding Window**
+  - Fixed Window -> [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
 - [ ] **Prefix Sum**
 - [ ] **Hash Map / Set**
 - [ ] **Stack**
 - [ ] **...**
-
 
 ## Status
 
