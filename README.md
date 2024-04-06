@@ -47,9 +47,9 @@ Todas as contribuições são bem-vindas.
   - [Youtube - Encontro](https://www.youtube.com/watch?v=62ZGcXDpbys)
 - [x] **Two Pointers**
   - [Youtube - Encontro](https://www.youtube.com/watch?v=a1QMdXgcQwY)
-- [ ] **Sliding Window**
+- [x] **Sliding Window**
   - Fixed Window -> [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
-- [ ] **Prefix Sum**
+- [x] **Prefix Sum**
 - [ ] **Hash Map / Set**
 - [ ] **Stack**
 - [ ] **...**
