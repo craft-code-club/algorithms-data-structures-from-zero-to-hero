@@ -1,7 +1,7 @@
 {
   "ignorePatterns": [
     {
-      "pattern": "^http://example.net"
+      "pattern": "^https://leetcode.com/"
     }
   ],
   "aliveStatusCodes": [429, 200]
