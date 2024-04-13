@@ -68,7 +68,8 @@ Todas as contribuições são bem-vindas.
 
 - [x] **Prefix Sum**
 
-- [ ] **Hash Map / Set**
+- [x] **Hash Map / Set**
+  - [Demo](https://github.com/NelsonBN/algorithms-data-structures-hashtable)
 - [ ] **Stack**
 - [ ] **...**
 
