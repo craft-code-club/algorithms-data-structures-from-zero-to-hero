@@ -72,7 +72,7 @@ Todas as contribuições são bem-vindas.
 - [x] **Hash Map / Set**
   - [Demo](https://github.com/NelsonBN/algorithms-data-structures-hashtable)
 - [ ] **Stack**
-  - [Demo]([https://github.com/NelsonBN/algorithms-data-structures-binary-search](https://github.com/matheusses/dsa/tree/main/src/stack)
+  - [Demo](https://github.com/matheusses/dsa/tree/main/src/stack)
 - [ ] **...**
 
 ## Status
