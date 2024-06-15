@@ -80,10 +80,12 @@ Todas as contribuições são bem-vindas.
 
 -   [x] **Hash Map / Set**
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-hashtable)
--   [ ] **Stack**
+-   [x] **Stack**
     -   [Demo](https://github.com/matheusses/dsa/tree/main/src/stack)
--   [ ] **Tree Traverse**
+-   [x] **Tree Traverse**
     -   [Code Implementation examples in Go](https://github.com/giovannymassuia/DS-A/tree/main/go-dsa/tree)
+-   [x] **k-ary tree**
+    -   [Code Implementation examples in Go](https://github.com/giovannymassuia/DS-A/tree/main/go-dsa/tree/k_ary)
 -   [ ] **...**
 
 ## Status
