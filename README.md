@@ -87,6 +87,9 @@ Todas as contribuições são bem-vindas.
 -   [x] **Stack**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=JRbrNgsYuT0)
     -   [Demo](https://github.com/matheusses/dsa/tree/main/src/stack)
+    -   Exercicios:
+        -   [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+        -   [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)
 
 
 -   [x] **Recursividade**
@@ -95,6 +98,12 @@ Todas as contribuições são bem-vindas.
         -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-recursion)
     -   Paradigma Funcional
         -   [Youtube - Encontro](https://www.youtube.com/watch?v=rbEYjJdaIZI)
+
+
+-   [x] **Queue**
+    -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-queue)
+    -   Exercicios:
+        -   [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 
 
 -   [x] **Tree**
@@ -110,6 +119,7 @@ Todas as contribuições são bem-vindas.
 
 -   [x] **Binary Search Tree**
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-binary-search-tree)
+    -   [Playground](https://www.cs.usfca.edu/~galles/visualization/BST.html)
 
 
 -   [ ] **Max/Min Heap**
