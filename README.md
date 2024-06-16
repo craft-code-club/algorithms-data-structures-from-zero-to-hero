@@ -23,28 +23,28 @@ Todas as contribuições são bem-vindas.
 ![Roadmap](./media/roadmap.png)
 [Preview Roadmap](https://whimsical.com/roadmap-BVA8gnSNM2D296qmrjwvY4)
 
--   [x] **Big O Notation - Análise Assintótica de Algoritmos**
 
+-   [x] **Big O Notation - Análise Assintótica de Algoritmos**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=MtLv9Rwb55Q)
 
--   [x] **Arrays**
 
+-   [x] **Arrays**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=c95xvXCU34A)
 
--   [x] **Strings**
 
+-   [x] **Strings**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=B9CCEwjoXBk)
 
--   [x] **Algoritmos de Ordenação Básicos**
 
+-   [x] **Algoritmos de Ordenação Básicos**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=GxhxsbbzaTI)
     -   Topicos:
         -   [Bubble Sort](https://github.com/NelsonBN/algorithms-data-structures-bubble-sort)
         -   [Insertion Sort](https://github.com/NelsonBN/algorithms-data-structures-insertion-sort)
         -   [Selection Sort](https://github.com/NelsonBN/algorithms-data-structures-insertion-sort)
 
--   [x] **Linked Lists**
 
+-   [x] **Linked Lists**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=j0E5hJZ__EA)
     -   Topicos:
         -   [Singly Linked List](https://github.com/NelsonBN/algorithms-data-structures-linked-list/blob/main/src/singly_linked_list.py)
@@ -59,33 +59,62 @@ Todas as contribuições são bem-vindas.
         -   [Identify Cycles](https://github.com/NelsonBN/algorithms-data-structures-linked-list/blob/main/src/identifying_cycles.py)
         -   [Floyd Cycle](https://github.com/NelsonBN/algorithms-data-structures-linked-list/blob/main/src/floyd_cycle.py)
 
--   [x] **Binary Search**
 
+-   [x] **Binary Search**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=62ZGcXDpbys)
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-binary-search)
 
--   [x] **Two Pointers**
 
+-   [x] **Two Pointers**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=a1QMdXgcQwY)
 
--   [x] **Sliding Window**
 
+-   [x] **Sliding Window**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=OvIJw1AMNzI)
     -   Exercicios:
         -   Fixed Window -> [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)
 
--   [x] **Prefix Sum**
 
+-   [x] **Prefix Sum**
     -   [Youtube - Encontro](https://www.youtube.com/watch?v=yMnLofkS7DM)
 
+
 -   [x] **Hash Map / Set**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=JFhdCBrKTX0)
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-hashtable)
+
+
 -   [x] **Stack**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=JRbrNgsYuT0)
     -   [Demo](https://github.com/matheusses/dsa/tree/main/src/stack)
+
+
+-   [x] **Recursividade**
+    -   Fundamentos
+        -   [Youtube - Encontro](https://www.youtube.com/watch?v=KkSAaQHCkSE)
+        -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-recursion)
+    -   Paradigma Funcional
+        -   [Youtube - Encontro](https://www.youtube.com/watch?v=rbEYjJdaIZI)
+
+
+-   [x] **Tree**
+
+
 -   [x] **Tree Traverse**
     -   [Code Implementation examples in Go](https://github.com/giovannymassuia/DS-A/tree/main/go-dsa/tree)
+
+
 -   [x] **k-ary tree**
     -   [Code Implementation examples in Go](https://github.com/giovannymassuia/DS-A/tree/main/go-dsa/tree/k_ary)
+
+
+-   [x] **Binary Search Tree**
+    -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-binary-search-tree)
+
+
+-   [ ] **Max/Min Heap**
+
+
 -   [ ] **...**
 
 ## Status
