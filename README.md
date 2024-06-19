@@ -101,6 +101,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [x] **Queue**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=KJaVKLZsMcg)
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-queue)
     -   Exercicios:
         -   [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
