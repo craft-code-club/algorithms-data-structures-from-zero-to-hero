@@ -98,6 +98,7 @@ Todas as contribuições são bem-vindas.
         -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-recursion)
     -   Paradigma Funcional
         -   [Youtube - Encontro](https://www.youtube.com/watch?v=rbEYjJdaIZI)
+        -   [Demo](./src/functional-recursion/README.md)
 
 
 -   [x] **Queue**
