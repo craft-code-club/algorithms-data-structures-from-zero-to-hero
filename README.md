@@ -120,6 +120,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [x] **Binary Search Tree**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=CITquySB4ls)
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-binary-search-tree)
     -   [Playground](https://www.cs.usfca.edu/~galles/visualization/BST.html)
 
