@@ -136,6 +136,11 @@ Todas as contribuições são bem-vindas.
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-heap-sort)
 
 
+-   [ ] **Algoritmos de Ordenação Básicos - Merge Sort**
+    -   [Demo - Merge Sort](https://github.com/NelsonBN/algorithms-data-structures-merge-sort)
+    -   [Demo - Stable Vs. Unstable Sorting Algorithms](https://github.com/NelsonBN/algorithms-data-structures-stable-vs-unstable-sort-algos)
+
+
 -   [ ] **...**
 
 ## Status
