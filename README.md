@@ -116,6 +116,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [x] **k-ary tree**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=FLZxMQFTqvY)
     -   [Code Implementation examples in Go](https://github.com/giovannymassuia/DS-A/tree/main/go-dsa/tree/k_ary)
 
 
