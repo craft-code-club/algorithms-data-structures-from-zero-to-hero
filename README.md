@@ -109,6 +109,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [x] **Tree**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=OAcm2rXqz9M)
 
 
 -   [x] **Tree Traverse**
