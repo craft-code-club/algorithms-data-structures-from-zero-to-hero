@@ -113,6 +113,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [x] **Tree Traverse**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=_-2F65OVWjo)
     -   [Code Implementation examples in Go](https://github.com/giovannymassuia/DS-A/tree/main/go-dsa/tree)
 
 
