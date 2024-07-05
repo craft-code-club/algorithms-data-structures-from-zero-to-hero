@@ -128,8 +128,12 @@ Todas as contribuições são bem-vindas.
     -   [Playground](https://www.cs.usfca.edu/~galles/visualization/BST.html)
 
 
--   [ ] **Binary Heap**
+-   [x] **Binary Heap**
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-binary-heap)
+
+
+-   [x] **Algoritmos de Ordenação Básicos - Heap Sort**
+    -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-heap-sort)
 
 
 -   [ ] **...**
