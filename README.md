@@ -128,7 +128,8 @@ Todas as contribuições são bem-vindas.
     -   [Playground](https://www.cs.usfca.edu/~galles/visualization/BST.html)
 
 
--   [ ] **Max/Min Heap**
+-   [ ] **Binary Heap**
+    -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-binary-heap)
 
 
 -   [ ] **...**
