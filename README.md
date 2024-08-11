@@ -144,6 +144,11 @@ Todas as contribuições são bem-vindas.
     -   [Demo - Stable Vs. Unstable Sorting Algorithms](https://github.com/NelsonBN/algorithms-data-structures-stable-vs-unstable-sort-algos)
 
 
+-   [x] **Algoritmos de Ordenação Básicos - Shell Sort**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=symbT7Cgrr8)
+    -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-shell-sort)
+
+
 -   [ ] **...**
 
 ## Status
