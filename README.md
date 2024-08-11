@@ -134,6 +134,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [x] **Algoritmos de Ordenação Básicos - Heap Sort**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=wUfOyKMjamM)
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-heap-sort)
 
 
