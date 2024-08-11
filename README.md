@@ -154,6 +154,11 @@ Todas as contribuições são bem-vindas.
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-quick-sort)
 
 
+-   [x] **Algoritmos de Ordenação Básicos - Introdução a Grafos**
+    -   [Youtube - Encontro - Part I](https://www.youtube.com/watch?v=cILrU-dtuEc)
+    -   [Youtube - Encontro - Part II](https://www.youtube.com/watch?v=IP0C0qCYWIc)
+
+
 -   [ ] **...**
 
 ## Status
