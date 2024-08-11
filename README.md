@@ -149,6 +149,11 @@ Todas as contribuições são bem-vindas.
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-shell-sort)
 
 
+-   [x] **Algoritmos de Ordenação Básicos - Quick Sort**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=2T0Itw-oaEA)
+    -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-quick-sort)
+
+
 -   [ ] **...**
 
 ## Status
