@@ -139,6 +139,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [ ] **Algoritmos de Ordenação Básicos - Merge Sort**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=lbktBOwmmhg)
     -   [Demo - Merge Sort](https://github.com/NelsonBN/algorithms-data-structures-merge-sort)
     -   [Demo - Stable Vs. Unstable Sorting Algorithms](https://github.com/NelsonBN/algorithms-data-structures-stable-vs-unstable-sort-algos)
 
