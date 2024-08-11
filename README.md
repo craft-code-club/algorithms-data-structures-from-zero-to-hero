@@ -129,6 +129,7 @@ Todas as contribuições são bem-vindas.
 
 
 -   [x] **Binary Heap**
+    -   [Youtube - Encontro](https://www.youtube.com/watch?v=HVWw20nOLHk)
     -   [Demo](https://github.com/NelsonBN/algorithms-data-structures-binary-heap)
 
 
