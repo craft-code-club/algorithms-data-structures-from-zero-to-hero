@@ -20,8 +20,85 @@ Todas as contribuições são bem-vindas.
 
 ## Roadmap
 
-![Roadmap](./media/roadmap.png)
-[Preview Roadmap](https://whimsical.com/roadmap-BVA8gnSNM2D296qmrjwvY4)
+```mermaid
+timeline
+    Big O Notation
+    Arrays
+        : Binary Search (Basic)
+    Strings
+    Sorting (Basic)
+        : Bubble Sort
+        : Insertion Sort
+        : Selection Sort
+    Linked List
+        : Doubly Linked List
+        : Sentinels
+        : Fast and Slow
+        : Dummy node (pointer)
+        : Identify Cycles
+        : Floyd Cycle
+    Binary Search (Deep)
+    Array Techniques
+        : Two Pointers
+        : Sliding Window
+        : Prefix Sum
+    Hash Map / Set
+        : Colision resolution (Buckets / Open Adrress)
+        : Counter/Frequency
+    Stack
+    Recursion
+        : Functional Programming
+        : Reverse LinkedList
+        : Fibonnacci : Power of 2/3/4
+    Queue
+    Trees
+        : Binary Tree
+        : DFS - Recursion
+        : DFS - Stack
+        : DFS - Pre Order
+        : DFS - In Order
+        : DFS - Post Order
+        : DFS - Boundary
+        : DFS - Diagonal
+        : BFS (Queue)
+        : K-ary
+        : Binary Search Tree
+    Binary Heap
+    Sorting (Medium)
+        : Heap Sort
+        : Merge Sort
+        : Shell Sort
+        : Quick Sort
+    Graphs
+        : DFS / DFS on Graphs
+        : SSSP - Dijkstra
+        : SSSP - Bellman-Ford
+        : SSSP - A*
+        : APSP - Floyd Warshall
+    Topological Sorting
+    Backtracking
+    Top-Down
+        : Memoization
+        : Botton-Up
+        : Tabulation
+    Dynamic Programing
+        : DP - 1D
+        : DP - Multidimensional
+    Bit Manipulation
+        : Base 2 / Base 8 / Base 16
+        : Complement
+        : Bit Shift Left and Right
+        : And / Or / Xor
+    Sorting (Advanced)
+        : Counting Sort
+        : Radix Sort
+        : Bucket Sort
+    Trie
+    Intervals
+    Greedy
+    Graphs (Advanced)
+    Math & Geometry
+```
 
 
 -   [x] **Big O Notation - Análise Assintótica de Algoritmos**
