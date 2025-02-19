@@ -21,84 +21,167 @@ Todas as contribuições são bem-vindas.
 ## Roadmap
 
 ```mermaid
-timeline
-    Big O Notation
-    Arrays
-        : Binary Search (Basic)
-    Strings
-    Sorting (Basic)
-        : Bubble Sort
-        : Insertion Sort
-        : Selection Sort
-    Linked List
-        : Doubly Linked List
-        : Sentinels
-        : Fast and Slow
-        : Dummy node (pointer)
-        : Identify Cycles
-        : Floyd Cycle
-    Binary Search (Deep)
-    Array Techniques
-        : Two Pointers
-        : Sliding Window
-        : Prefix Sum
-    Hash Map / Set
-        : Colision resolution (Buckets / Open Adrress)
-        : Counter/Frequency
-    Stack
-    Recursion
-        : Functional Programming
-        : Reverse LinkedList
-        : Fibonnacci : Power of 2/3/4
-    Queue
+flowchart
+  BigO[Big O Notation] --> Arrays-Topic
+
+  subgraph Arrays-Topic[Arrays]
+    direction TB
+    Arrays --> BinarySearchBasic["Binary Search (Basic)"]
+  end
+
+  BinarySearchBasic --> Strings
+  Strings --> BubbleSort
+
+  subgraph BasicSorting-Topic["Sorting (Basic)"]
+    direction TB
+    BubbleSort(Bubble Sort)
+      --> InsertionSort[Insertion Sort]
+      --> SelectionSort[Selection Sort]
+  end
+
+  BasicSorting-Topic --> LinkedList-Topic
+
+  subgraph LinkedList-Topic[Linked List]
+    direction TB
+    DoublyLinkedList[Doubly Linked List]
+    Sentinels
+    FastSlow[Fast and Slow]
+    DummyNodePointer["Dummy node (pointer)"]
+    IdentifyCycles[Identify Cycles]
+    FloydCycle[Floyd Cycle]
+  end
+
+  LinkedList-Topic
+    --> BinarySearchDeep["Binary Search (Deep)"]
+    --> TwoPointers[Two Pointers]
+    --> SlidingWindow[Sliding Window]
+    --> PrefixSum[Prefix Sum]
+    --> HashMapSet-Topic
+
+  subgraph HashMapSet-Topic[Hash Map / Set]
+    HashMapSet-ColisionResolution["Colision resolution (Buckets / Open Adrress)"]
+    CounterFrequency[Counter / Frequency]
+  end
+
+  HashMapSet-Topic
+    --> Stack
+    --> Recursion-Topic
+
+  subgraph Recursion-Topic[Recursion]
+    direction TB
+    FunctionalProgramming[Functional Programming]
+    ReverseLinkedList[Reverse LinkedList]
+    Fibonnacci
+    PowerOf[Power of 2/3/4]
+  end
+
+  Recursion-Topic
+    --> Queue
+    --> Trees
+
+  subgraph Trees-Topic[Trees]
+    direction TB
     Trees
-        : Binary Tree
-        : DFS - Recursion
-        : DFS - Stack
-        : DFS - Pre Order
-        : DFS - In Order
-        : DFS - Post Order
-        : DFS - Boundary
-        : DFS - Diagonal
-        : BFS (Queue)
-        : K-ary
-        : Binary Search Tree
-    Binary Heap
-    Sorting (Medium)
-        : Heap Sort
-        : Merge Sort
-        : Shell Sort
-        : Quick Sort
+      --> BinaryTree[Binary Tree]
+      --> DFS-Topic
+      --> BFS-Topic
+      --> KAry[K-ary]
+      --> BinarySearchTree[Binary Search Tree]
+
+    subgraph DFS-Topic[DFS]
+      direction LR
+        DFS --> DFS-Recursion[Recursion]
+        DFS --> DFS-Stack[Stack]
+        DFS --> DFS-PreOrder[Pre Order]
+        DFS --> DFS-InOrder[In Order]
+        DFS --> DFS-PostOrder[Post Order]
+        DFS --> DFS-Boundary[Boundary]
+        DFS --> DFS-Diagonal[Diagonal]
+    end
+
+    subgraph BFS-Topic[BFS]
+      direction TB
+      BFS --> BFS-Queue[Queue]
+    end
+
+  end
+
+  BinarySearchTree
+    --> BinaryHeap[Binary Heap]
+    --> HeapSort
+
+  subgraph MediumSorting-Topic["Sorting (Medium)"]
+    direction TB
+    HeapSort(Heap Sort)
+      --> MergeSort[Merge Sort]
+      --> ShellSort[Shell Sort]
+      --> QuickSort[Quick Sort]
+  end
+
+  QuickSort --> Graphs
+
+  subgraph Graphs-Topic[Graphs]
+    direction LR
     Graphs
-        : DFS / DFS on Graphs
-        : SSSP - Dijkstra
-        : SSSP - Bellman-Ford
-        : SSSP - A*
-        : APSP - Floyd Warshall
-    Topological Sorting
-    Backtracking
-    Top-Down
-        : Memoization
-        : Botton-Up
-        : Tabulation
-    Dynamic Programing
-        : DP - 1D
-        : DP - Multidimensional
-    Bit Manipulation
-        : Base 2 / Base 8 / Base 16
-        : Complement
-        : Bit Shift Left and Right
-        : And / Or / Xor
-    Sorting (Advanced)
-        : Counting Sort
-        : Radix Sort
-        : Bucket Sort
-    Trie
-    Intervals
-    Greedy
-    Graphs (Advanced)
-    Math & Geometry
+      --> Graphs-DFSBFS[DFS / BFS]
+      --> Dijkstra
+
+    subgraph SSSP-Topic[SSSP]
+      Dijkstra
+        --> Bellman-Ford
+        --> A-Star
+    end
+
+    A-Star --> FloydWarshall
+
+    subgraph APSP-Topic[APSP]
+      FloydWarshall[Floyd Warshall]
+    end
+  end
+
+  FloydWarshall
+    --> TopologicalSorting[Topological Sorting]
+    --> Backtracking
+    --> Top-Down
+    --> Memoization
+    --> Botton-Up
+    --> Tabulation
+    --> DynamicPrograming
+
+  subgraph DynamicPrograming-Topic[Dynamic Programing]
+    direction TB
+    DynamicPrograming[Dynamic Programing]
+      --> DynamicPrograming-1D[1D]
+      --> DynamicPrograming-Multidimensional[Multidimensional]
+  end
+
+  DynamicPrograming-Multidimensional --> BitManipulation-Base-2-8-16
+
+  subgraph BitManipulation-Topic[Bit Manipulation]
+    direction TB
+    BitManipulation-Base-2-8-16[Base 2 / Base 8 / Base 16]
+      --> BitManipulation-Complement[Complement]
+      --> BitManipulation-Shift[Bit Shift Left and Right]
+      --> BitManipulation-Operations[And / Or / Xor]
+  end
+
+  BitManipulation-Operations --> CountingSort
+
+  subgraph AdvancedSorting-Topic["Sorting (Advanced)"]
+    direction TB
+    CountingSort[Counting Sort]
+      --> RadixSort[Radix Sort]
+      --> BucketSort[Bucket Sort]
+  end
+
+  BucketSort
+    --> Trie
+    --> Intervals
+    --> Greedy
+    --> AdvancedGraphs["Graphs (Advanced)"]
+    --> MathGeometry["Math & Geometry"]
 ```
+
 
 
 -   [x] **Big O Notation - Análise Assintótica de Algoritmos**
